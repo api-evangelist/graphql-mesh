@@ -35,7 +35,10 @@ apis:
       - REST
       - gRPC
       - Microservices
-    properties: []
+    properties:
+      - type: JSONSchema
+        url: >-
+          https://raw.githubusercontent.com/api-evangelist/graphql-mesh/refs/heads/main/json-schema/meshrc-configuration.json
 common:
   - type: Website
     url: https://the-guild.dev/graphql/mesh
