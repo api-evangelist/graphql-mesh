@@ -1,0 +1,28 @@
+aid: graphql-mesh
+name: GraphQL Mesh
+description: >-
+  GraphQL Mesh is a framework that allows you to use GraphQL to query any data source by generating a GraphQL schema from existing APIs.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Microservices
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/graphql-mesh/refs/heads/main/apis.yml
+created: '2026-03-26'
+modified: '2026-03-26'
+specificationVersion: '0.19'
+apis:
+  - aid: graphql-mesh:graphql-mesh
+    name: GraphQL Mesh
+    description: >-
+      GraphQL Mesh is a framework that allows you to use GraphQL to query any data source by generating a GraphQL schema from existing APIs.
+    humanURL: https://github.com/api-evangelist/graphql-mesh
+    tags:
+      - Microservices
+    properties: []
+common:
+  - type: Website
+    url: https://github.com/api-evangelist/graphql-mesh
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
