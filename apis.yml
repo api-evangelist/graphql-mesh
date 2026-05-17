@@ -44,7 +44,7 @@ common:
     url: https://the-guild.dev/graphql/mesh
   - type: Documentation
     url: https://the-guild.dev/graphql/mesh/docs
-  - type: Getting Started
+  - type: GettingStarted
     url: https://the-guild.dev/graphql/mesh/docs/getting-started
   - type: GitHub
     url: https://github.com/Urigo/graphql-mesh
