@@ -1,30 +1,34 @@
 # GraphQL Mesh (graphql-mesh)
-GraphQL Mesh is a framework by The Guild that allows you to use GraphQL to query any data source, including REST APIs, gRPC, SOAP, OpenAPI, and databases, by automatically generating a unified GraphQL schema from existing API specifications.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/graphql-mesh/refs/heads/main/apis.yml)
+Universal API integration layer from The Guild that unifies REST, gRPC, SOAP, OData, Thrift, and databases into a single GraphQL schema, acting as a query gateway and SDK generator with support for federation, transforms, caching, and deployment to Node.js, serverless, and edge runtimes.
 
-## Tags:
+**URL:** [https://the-guild.dev/graphql/mesh](https://the-guild.dev/graphql/mesh)
 
- - API Gateway, GraphQL, gRPC, Microservices, REST, Schema Stitching
+## Tags
+
+GraphQL, API Gateway, Federation, Schema Composition, REST, gRPC, Open Source
 
 ## Timestamps
 
 - **Created:** 2026-03-26
-- **Modified:** 2026-03-26
+- **Modified:** 2026-06-14
 
 ## APIs
 
-### GraphQL Mesh
-GraphQL Mesh is a framework by The Guild that allows you to use GraphQL to query any data source, including REST APIs, gRPC, SOAP, OpenAPI, and databases, by automatically generating a unified GraphQL schema from existing API specifications.
+### GraphQL Mesh API
 
-**Human URL:** [https://the-guild.dev/graphql/mesh](https://the-guild.dev/graphql/mesh)
+GraphQL federation framework that composes any API service — REST, OpenAPI, gRPC, SOAP, OData, JSON Schema, GraphQL, and databases — into a unified, type-safe GraphQL schema with built-in transforms, caching, and mocking.
 
-#### Tags:
+**Human URL:** [https://the-guild.dev/graphql/mesh/docs](https://the-guild.dev/graphql/mesh/docs)
 
- - API Gateway, GraphQL, gRPC, Microservices, REST, Schema Stitching
+#### Tags
+
+GraphQL, Federation, API Gateway, Schema Composition, Open Source
 
 #### Properties
 
+- [Documentation](https://the-guild.dev/graphql/mesh/docs)
+- [GraphQL](graphql/graphql-mesh-graphql.md)
 - [JSONSchema](json-schema/meshrc-configuration.json)
 
 ## Common Properties
@@ -32,8 +36,14 @@ GraphQL Mesh is a framework by The Guild that allows you to use GraphQL to query
 - [Website](https://the-guild.dev/graphql/mesh)
 - [Documentation](https://the-guild.dev/graphql/mesh/docs)
 - [Getting Started](https://the-guild.dev/graphql/mesh/docs/getting-started)
-- [GitHub](https://github.com/Urigo/graphql-mesh)
+- [LinkedIn](https://www.linkedin.com/company/the-guild-software)
+- [GitHub Organization](https://github.com/the-guild-org)
+- [GitHub Repository](https://github.com/ardatan/graphql-mesh)
 - [Blog](https://the-guild.dev/blog)
+- [Pricing](https://the-guild.dev/graphql/hive/pricing)
+- [Plans](plans/graphql-mesh-plans.md)
+- [Rate Limits](rate-limits/graphql-mesh-rate-limits.md)
+- [FinOps](finops/graphql-mesh-finops.md)
 
 ## Maintainers
 
