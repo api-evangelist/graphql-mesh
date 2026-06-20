@@ -5,7 +5,7 @@ description: "Universal API integration layer from The Guild that unifies REST, 
   gateway and SDK generator with support for federation, transforms, caching, and
   deployment to Node.js, serverless, and edge runtimes."
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://the-guild.dev/graphql/mesh
 baseURL: https://the-guild.dev/graphql/mesh
 created: '2026-03-26'
