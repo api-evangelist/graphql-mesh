@@ -9,13 +9,13 @@
       "method": "feed"
     },
     {
-      "source": "https://github.com/Urigo/graphql-mesh",
-      "feed_url": "https://github.com/Urigo/graphql-mesh",
+      "source": "https://the-guild.dev/blog",
+      "feed_url": "https://the-guild.dev/feed.xml",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "discovered"
     }
   ],
   "post_count": 51,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:03:07Z"
 }
