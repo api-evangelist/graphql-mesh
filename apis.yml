@@ -42,6 +42,8 @@ apis:
         url: >-
           https://raw.githubusercontent.com/api-evangelist/graphql-mesh/refs/heads/main/json-schema/meshrc-configuration.json
 common:
+  - type: DomainSecurity
+    url: security/graphql-mesh-domain-security.yml
   - url: https://the-guild.dev/graphql/mesh
     type: Website
   - url: https://the-guild.dev/graphql/mesh/docs
