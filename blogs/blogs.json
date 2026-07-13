@@ -9,6 +9,13 @@
       "method": "feed"
     },
     {
+      "source": "https://the-guild.dev/feed.xml",
+      "feed_url": "https://the-guild.dev/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://the-guild.dev/blog",
       "feed_url": "https://the-guild.dev/feed.xml",
       "title": "",
@@ -17,5 +24,5 @@
     }
   ],
   "post_count": 51,
-  "fetched": "2026-06-27T12:03:07Z"
+  "fetched": "2026-07-11T11:50:51Z"
 }
